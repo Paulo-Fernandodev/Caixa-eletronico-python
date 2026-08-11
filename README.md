@@ -11,12 +11,12 @@ O programa simula o funcionamento de um caixa eletrônico, permitindo ao usuári
 
  Conceitos praticados:
 
-Variáveis, Entrada e saída de dados, Condicionais (if, elif, else), Operadores, Estruturas de repetição, Lógica de programação
+- Variáveis, Entrada e saída de dados, Condicionais (if, elif, else), Operadores, Estruturas de repetição, Lógica de programação
 
- Como executar
+ Como executar:
 
-python projeto2.py
+- python projeto2.py
 
  Objetivo:
  
-Este projeto faz parte dos meus estudos de Python e lógica de programação, sendo desenvolvido como prática para evoluir meus conhecimentos em programação.
+- Este projeto faz parte dos meus estudos de Python e lógica de programação, sendo desenvolvido como prática para evoluir meus conhecimentos em programação.
