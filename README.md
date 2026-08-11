@@ -7,19 +7,11 @@ Projeto de um caixa eletrônico desenvolvido em Python, criado para praticar con
 O programa simula o funcionamento de um caixa eletrônico, permitindo ao usuário realizar operações bancárias de forma simples.
 
  Funcionalidades:
-Consulta de saldo
-Saque
-Validação das operações
-Interação com o usuário pelo terminal
+- Consulta de saldo, Saque, Validação das operações, Interação com o usuário pelo terminal
 
  Conceitos praticados:
 
-Variáveis
-Entrada e saída de dados
-Condicionais (if, elif, else)
-Operadores
-Estruturas de repetição
-Lógica de programação
+Variáveis, Entrada e saída de dados, Condicionais (if, elif, else), Operadores, Estruturas de repetição, Lógica de programação
 
  Como executar
 
