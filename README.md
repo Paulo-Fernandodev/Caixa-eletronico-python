@@ -24,6 +24,7 @@ Lógica de programação
  Como executar
 
 python projeto2.py
-🚀 Objetivo
 
+ Objetivo:
+ 
 Este projeto faz parte dos meus estudos de Python e lógica de programação, sendo desenvolvido como prática para evoluir meus conhecimentos em programação.
